@@ -1,1 +1,3 @@
 service-account-cloudmatica-sheets.json
+.chalice/deployments
+requirements.txt
